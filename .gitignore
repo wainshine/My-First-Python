@@ -101,7 +101,9 @@ venv.bak/
 /site
 
 # mypy
+.gitignore
 .mypy_cache/
+.idea/
 /data/
 /other/
 /output/
